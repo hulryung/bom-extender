@@ -15,6 +15,20 @@ A web application that extends KiCad BOM (Bill of Materials) files with LCSC par
 - **Data Export**: Download extended BOM as Excel (.xlsx) or CSV
 - **Cost Calculation**: Automatic unit and total price calculation based on quantity
 
+## Screenshots
+
+### Upload BOM
+![Upload BOM](./public/screenshots/01-upload.png)
+
+### Paste CSV Content
+![Paste CSV](./public/screenshots/02-paste.png)
+
+### BOM Table View
+![BOM Table](./public/screenshots/03-table.png)
+
+### Fetched LCSC Data
+![Fetched Data](./public/screenshots/04-fetched.png)
+
 ## Supported BOM Format
 
 This tool works with KiCad BOM files exported for JLCPCB assembly service:
